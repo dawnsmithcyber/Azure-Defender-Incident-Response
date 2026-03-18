@@ -1,10 +1,8 @@
 # Azure-Defender-Incident-Response
-Real-time cyber attack simulation focused on unmasking hidden threats. Managed a full lifecycle incident: detected brute-force entry, decrypted an XOR-obfuscated PowerShell payload, and executed mitigation via Microsoft Defender. Highlights the transition from detection to full resolution and host hardening. 
-# 🛡️ DFE Simulation: Attack, Isolation, and Live Response
+Real-time simulation of a cyber attack lifecycle using Microsoft Defender for Endpoint. Managed an end-to-end incident: detected Brute Force entry, performed forensic analysis on an XOR-obfuscated PowerShell payload, and executed host isolation/remediation. Demonstrates the transition from threat detection to host hardening.# 🛡️ DFE Simulation: Attack, Isolation, and Live Response
 
 ## 📋 Project Overview
-This project documents a comprehensive end-to-end simulation of a cyber attack lifecycle. It demonstrates the transition from initial detection of a brute-force attempt to forensic analysis of an obfuscated PowerShell payload, concluding with full host isolation and vulnerability remediation.
-
+### This project documents a comprehensive, real-time simulation of a cyber attack lifecycle, specifically focusing on unmasking hidden threats from initial access to full resolution. By identifying a Brute Force entry and performing forensic analysis on an XOR-obfuscated PowerShell payload, I utilized Microsoft Defender for Endpoint to execute host isolation and vulnerability remediation. This lab highlights a successful end-to-end transition from threat detection to host hardening, demonstrating the technical precision required for modern incident response.
 ---
 
 ## 🚀 The Workflow
