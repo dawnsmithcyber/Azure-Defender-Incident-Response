@@ -1,4 +1,4 @@
-# Forensic-Analysis-Defender-Endpoint
+# Azure-Defender-Incident-Response
 Real-time simulation of a multi-stage cyber attack lifecycle using Microsoft Defender for Endpoint. This project demonstrates active threat hunting, XOR-obfuscated payload analysis, and automated host isolation/remediation to resolve a Brute Force-to-Ransomware incident.
 
 ## 📋 Project Overview
